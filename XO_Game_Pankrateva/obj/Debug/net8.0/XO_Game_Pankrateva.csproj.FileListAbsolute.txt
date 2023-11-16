@@ -1,0 +1,14 @@
+C:\Users\st310-04\Desktop\Pankrateva\3 XO Game\XO_Game_Pankrateva\obj\Debug\net8.0\XO_Game_Pankrateva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-04\Desktop\Pankrateva\3 XO Game\XO_Game_Pankrateva\obj\Debug\net8.0\XO_Game_Pankrateva.AssemblyInfoInputs.cache
+C:\Users\st310-04\Desktop\Pankrateva\3 XO Game\XO_Game_Pankrateva\obj\Debug\net8.0\XO_Game_Pankrateva.AssemblyInfo.cs
+C:\Users\st310-04\Desktop\Pankrateva\3 XO Game\XO_Game_Pankrateva\obj\Debug\net8.0\XO_Game_Pankrateva.csproj.CoreCompileInputs.cache
+C:\Users\st310-04\Desktop\Pankrateva\3 XO Game\XO_Game_Pankrateva\bin\Debug\net8.0\XO_Game_Pankrateva.exe
+C:\Users\st310-04\Desktop\Pankrateva\3 XO Game\XO_Game_Pankrateva\bin\Debug\net8.0\XO_Game_Pankrateva.deps.json
+C:\Users\st310-04\Desktop\Pankrateva\3 XO Game\XO_Game_Pankrateva\bin\Debug\net8.0\XO_Game_Pankrateva.runtimeconfig.json
+C:\Users\st310-04\Desktop\Pankrateva\3 XO Game\XO_Game_Pankrateva\bin\Debug\net8.0\XO_Game_Pankrateva.dll
+C:\Users\st310-04\Desktop\Pankrateva\3 XO Game\XO_Game_Pankrateva\bin\Debug\net8.0\XO_Game_Pankrateva.pdb
+C:\Users\st310-04\Desktop\Pankrateva\3 XO Game\XO_Game_Pankrateva\obj\Debug\net8.0\XO_Game_Pankrateva.dll
+C:\Users\st310-04\Desktop\Pankrateva\3 XO Game\XO_Game_Pankrateva\obj\Debug\net8.0\refint\XO_Game_Pankrateva.dll
+C:\Users\st310-04\Desktop\Pankrateva\3 XO Game\XO_Game_Pankrateva\obj\Debug\net8.0\XO_Game_Pankrateva.pdb
+C:\Users\st310-04\Desktop\Pankrateva\3 XO Game\XO_Game_Pankrateva\obj\Debug\net8.0\XO_Game_Pankrateva.genruntimeconfig.cache
+C:\Users\st310-04\Desktop\Pankrateva\3 XO Game\XO_Game_Pankrateva\obj\Debug\net8.0\ref\XO_Game_Pankrateva.dll
